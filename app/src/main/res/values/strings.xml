@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ОАТ.Оценки</string>
+    <string name="student_surname_hint">Введите фамилию</string>
+
+    <string name="search_student">Поиск студента</string>
+    <string name="settings">Настройки</string>
+    <string name="empty_mark_list">Кажется, оценок нет...</string>
+    <string name="toast_empty_field">Неверная фамилия</string>
+    <string name="toast_incorrect_table">Неверная таблица</string>
+    <string name="toast_student_not_found">Студент не был найден</string>
+
+    <string name="first_semester" translatable="false">I</string>
+    <string name="second_semester" translatable="false">II</string>
+    <string name="all">Все</string>
+
+    <string name="loading">Загрузка...</string>
+
+    <string name="september">сентября</string>
+    <string name="october">октября</string>
+    <string name="november">ноября</string>
+    <string name="december">декабря</string>
+    <string name="january">января</string>
+    <string name="february">февраля</string>
+    <string name="march">марта</string>
+    <string name="april">апреля</string>
+    <string name="may">мая</string>
+    <string name="june">июня</string>
+
+</resources>
